@@ -47,15 +47,16 @@ You are required to submit the following for review:
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.  
 
 ## Screenshots
-<img width="1005" alt="Screenshot 2024-06-28 at 1 55 03 PM" src="https://github.com/bwolkoys/urban-octo-telegram1/assets/172542684/b42f81d5-53e8-42c3-b228-c8e03efe9392"> 
+
+![Screenshot 2024-06-28 at 1 55 03 PM] (https://github.com/bwolkoys/urban-octo-telegram1/assets/172542684/b42f81d5-53e8-42c3-b228-c8e03efe9392)
 
 In this screenshot, I changes the title to "SEO Basics" to represent the page better.
 I also removed <div> and put <nav> to help read the code better.
 
-<img width="1035" alt="Screenshot 2024-06-28 at 1 58 03 PM" src="https://github.com/bwolkoys/urban-octo-telegram1/assets/172542684/be6e207e-d346-457b-90c7-7ab3c1333966">
+![Screenshot 2024-06-28 at 1:58:03 PM](https://github.com/bwolkoys/urban-octo-telegram1/assets/172542684/be6e207e-d346-457b-90c7-7ab3c1333966)
 
 In this screenshot, I took out the <div> and put <section> (semantic elements). For search engine optimization, I changed "class" to "id" so that the ancor would work on the screen. I also added alt="descritpions of the images and icons" for accessability purposes 
 
-<img width="1039" alt="Screenshot 2024-06-28 at 2 01 00 PM" src="https://github.com/bwolkoys/urban-octo-telegram1/assets/172542684/dbf54a38-b64b-4d43-b121-80610cb5b53e">
+![Screenshot 2024-06-28 at 2:01:00 PM](https://github.com/bwolkoys/urban-octo-telegram1/assets/172542684/dbf54a38-b64b-4d43-b121-80610cb5b53e)
 
 In this screenshot, I took out <div> and put <aside> (semantic elements) to better read the page, I added alt="" to describe the icons. At the bottom I changed the footer h2 to h4 so it is in a logical structure. 
