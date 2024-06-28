@@ -50,13 +50,18 @@ You are required to submit the following for review:
 
 ![Screenshot 2024-06-28 at 1 55 03 PM] (<Screenshot 2024-06-28 at 1.55.03 PM-1.png>)
 
-In this screenshot, I changes the title to "SEO Basics" to represent the page better.
-I also removed <div> and put <nav> to help read the code better.
+In this screenshot, I changes the title to "SEO Basics" (line 7) to represent the page better.
+I also removed <div> and put <nav> to help read the code better. (line 13 and 25)
 
 ![Screenshot 2024-06-28 at 1:58:03 PM](<Screenshot 2024-06-28 at 1.58.03 PM.png>)
 
-In this screenshot, I took out the <div> and put <section> (semantic elements). For search engine optimization, I changed "class" to "id" so that the ancor would work on the screen. I also added alt="descritpions of the images and icons" for accessability purposes 
+In this screenshot, I took out the <div> and put <section> (semantic elements) (line 30, 36, 38, 44, 46, 52). 
+For search engine optimization, 
+I changed "class" to "id" so that the ancor would work on the screen (line 30). I also added alt="descritpions of the images 
+and icons" for accessability purposes (line 31, 39, 47)
 
 ![Screenshot 2024-06-28 at 2:01:00 PM](<Screenshot 2024-06-28 at 2.01.00 PM.png>)
 
-In this screenshot, I took out <div> and put <aside> (semantic elements) to better read the page, I added alt="" to describe the icons. At the bottom I changed the footer h2 to h4 so it is in a logical structure.
+In this screenshot, I took out <div> and put <aside> (semantic elements) to better read the page (line 56, 62, 63, 69, 70, 76), 
+I added alt="" to describe the icons (line 58, 65, 72). At the bottom I changed the footer h2 to h4 so it is in a logical 
+structure (line 79).
