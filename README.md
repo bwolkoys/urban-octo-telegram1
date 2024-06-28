@@ -155,4 +155,8 @@ You are required to submit the following for review:
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
 ---
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.  
+
+## Screenshots
+![Screenshot 2024-06-28 at 11 21 03 AM](https://github.com/bwolkoys/urban-octo-telegram1/assets/172542684/3744fc32-1b36-41c4-b42c-af9557974e76)
+
